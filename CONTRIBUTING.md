@@ -786,6 +786,12 @@
 - Bio: Computer science 2nd year student
 - GitHub: [Chayandev](https://github.com/Chayandev)
 
+#### Name: [Ocean Kumar](https://github.com/oceankumar)
+
+- Place: Hisar, Haryana, India
+- Bio: Ungerade Student At NST
+- GitHub: [Ocean Kumar](https://github.com/oceankumar)
+
 #### Name: [Chirag Arora](https://github.com/Chirag8023)
 
 - Place: City, State, Country
